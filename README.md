@@ -19,6 +19,7 @@ Comments:
 
 Hardware:
     https://www.youtube.com/watch?v=o4_NeqlJgOs&ab_channel=GreatScott%21
+    10K resistor between gate and source
 
 Web APIs:
 https://docs.blynk.io/en/blynk.cloud/device-https-api?_gl=1*19jh94p*_ga*MjE0MjM5NjAzNy4xNzAzMzU3MTEw*_ga_E376ZQ635Y*MTcwMzM4OTU4Ny4xLjAuMTcwMzM4OTU4Ny4wLjAuMA..*_ga_J0GP1NPNB7*MTcwMzM4OTU4Ny4xLjAuMTcwMzM4OTU4Ny4wLjAuMA
@@ -26,3 +27,8 @@ https://docs.blynk.io/en/blynk.cloud/device-https-api?_gl=1*19jh94p*_ga*MjE0MjM5
 Example:
 
 https://{server_address}/external/api/get?token={token}&{pin}
+
+
+
+Equipment: 
+    https://www.myminifactory.com/object/3d-print-box-for-power-relay-module-board-274073
