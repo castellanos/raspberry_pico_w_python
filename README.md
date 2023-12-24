@@ -15,3 +15,14 @@ Comments:
     https://github.com/vshymanskyy/blynk-library-python/blob/master/examples/04_timer.py#L23
 
     https://github.com/blynkkk/lib-python/blob/master/TIMERS.md
+    
+
+Hardware:
+    https://www.youtube.com/watch?v=o4_NeqlJgOs&ab_channel=GreatScott%21
+
+Web APIs:
+https://docs.blynk.io/en/blynk.cloud/device-https-api?_gl=1*19jh94p*_ga*MjE0MjM5NjAzNy4xNzAzMzU3MTEw*_ga_E376ZQ635Y*MTcwMzM4OTU4Ny4xLjAuMTcwMzM4OTU4Ny4wLjAuMA..*_ga_J0GP1NPNB7*MTcwMzM4OTU4Ny4xLjAuMTcwMzM4OTU4Ny4wLjAuMA
+
+Example:
+
+https://{server_address}/external/api/get?token={token}&{pin}
